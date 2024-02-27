@@ -1,4 +1,11 @@
-# Examples of Python Data Types and Functional Programming
+# Examples of Python Data Types and Functional Programming 
+
+
+![Example](https://www.sqlshack.com/wp-content/uploads/2021/04/passing-the-username-as-argument-in-the-function-.png) 
+
+
+![picture](https://images.nightcafe.studio/jobs/hCzG7egKcvKreqkCit2d/hCzG7egKcvKreqkCit2d--1--uarug.jpg?tr=w-1600,c-at_max)
+
 
 ## Overview:
 This project contains examples and code snippets demonstrating various concepts related to Python data types and functional programming features. It serves as a practical resource for beginners to explore and understand key concepts in Python programming.
